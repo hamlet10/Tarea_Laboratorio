@@ -1,0 +1,13 @@
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Maximo\bin\Debug\netcoreapp3.1\Maximo.exe
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Maximo\bin\Debug\netcoreapp3.1\Maximo.deps.json
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Maximo\bin\Debug\netcoreapp3.1\Maximo.runtimeconfig.json
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Maximo\bin\Debug\netcoreapp3.1\Maximo.runtimeconfig.dev.json
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Maximo\bin\Debug\netcoreapp3.1\Maximo.dll
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Maximo\bin\Debug\netcoreapp3.1\Maximo.pdb
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Maximo\obj\Debug\netcoreapp3.1\Maximo.csprojAssemblyReference.cache
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Maximo\obj\Debug\netcoreapp3.1\Maximo.AssemblyInfoInputs.cache
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Maximo\obj\Debug\netcoreapp3.1\Maximo.AssemblyInfo.cs
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Maximo\obj\Debug\netcoreapp3.1\Maximo.csproj.CoreCompileInputs.cache
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Maximo\obj\Debug\netcoreapp3.1\Maximo.dll
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Maximo\obj\Debug\netcoreapp3.1\Maximo.pdb
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Maximo\obj\Debug\netcoreapp3.1\Maximo.genruntimeconfig.cache

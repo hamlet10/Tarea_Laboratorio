@@ -1,0 +1,13 @@
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Cuadrado\bin\Debug\netcoreapp3.1\Cuadrado.exe
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Cuadrado\bin\Debug\netcoreapp3.1\Cuadrado.deps.json
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Cuadrado\bin\Debug\netcoreapp3.1\Cuadrado.runtimeconfig.json
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Cuadrado\bin\Debug\netcoreapp3.1\Cuadrado.runtimeconfig.dev.json
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Cuadrado\bin\Debug\netcoreapp3.1\Cuadrado.dll
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Cuadrado\bin\Debug\netcoreapp3.1\Cuadrado.pdb
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Cuadrado\obj\Debug\netcoreapp3.1\Cuadrado.csprojAssemblyReference.cache
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Cuadrado\obj\Debug\netcoreapp3.1\Cuadrado.AssemblyInfoInputs.cache
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Cuadrado\obj\Debug\netcoreapp3.1\Cuadrado.AssemblyInfo.cs
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Cuadrado\obj\Debug\netcoreapp3.1\Cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Cuadrado\obj\Debug\netcoreapp3.1\Cuadrado.dll
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Cuadrado\obj\Debug\netcoreapp3.1\Cuadrado.pdb
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Cuadrado\obj\Debug\netcoreapp3.1\Cuadrado.genruntimeconfig.cache

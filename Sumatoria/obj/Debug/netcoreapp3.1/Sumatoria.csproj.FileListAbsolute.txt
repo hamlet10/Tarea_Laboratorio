@@ -1,0 +1,13 @@
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Sumatoria\bin\Debug\netcoreapp3.1\Sumatoria.exe
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Sumatoria\bin\Debug\netcoreapp3.1\Sumatoria.deps.json
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Sumatoria\bin\Debug\netcoreapp3.1\Sumatoria.runtimeconfig.json
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Sumatoria\bin\Debug\netcoreapp3.1\Sumatoria.runtimeconfig.dev.json
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Sumatoria\bin\Debug\netcoreapp3.1\Sumatoria.dll
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Sumatoria\bin\Debug\netcoreapp3.1\Sumatoria.pdb
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Sumatoria\obj\Debug\netcoreapp3.1\Sumatoria.csprojAssemblyReference.cache
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Sumatoria\obj\Debug\netcoreapp3.1\Sumatoria.AssemblyInfoInputs.cache
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Sumatoria\obj\Debug\netcoreapp3.1\Sumatoria.AssemblyInfo.cs
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Sumatoria\obj\Debug\netcoreapp3.1\Sumatoria.csproj.CoreCompileInputs.cache
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Sumatoria\obj\Debug\netcoreapp3.1\Sumatoria.dll
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Sumatoria\obj\Debug\netcoreapp3.1\Sumatoria.pdb
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Sumatoria\obj\Debug\netcoreapp3.1\Sumatoria.genruntimeconfig.cache

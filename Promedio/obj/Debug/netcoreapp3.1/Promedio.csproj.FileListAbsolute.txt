@@ -1,0 +1,13 @@
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Promedio\bin\Debug\netcoreapp3.1\Promedio.exe
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Promedio\bin\Debug\netcoreapp3.1\Promedio.deps.json
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Promedio\bin\Debug\netcoreapp3.1\Promedio.runtimeconfig.json
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Promedio\bin\Debug\netcoreapp3.1\Promedio.runtimeconfig.dev.json
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Promedio\bin\Debug\netcoreapp3.1\Promedio.dll
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Promedio\bin\Debug\netcoreapp3.1\Promedio.pdb
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Promedio\obj\Debug\netcoreapp3.1\Promedio.csprojAssemblyReference.cache
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Promedio\obj\Debug\netcoreapp3.1\Promedio.AssemblyInfoInputs.cache
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Promedio\obj\Debug\netcoreapp3.1\Promedio.AssemblyInfo.cs
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Promedio\obj\Debug\netcoreapp3.1\Promedio.csproj.CoreCompileInputs.cache
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Promedio\obj\Debug\netcoreapp3.1\Promedio.dll
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Promedio\obj\Debug\netcoreapp3.1\Promedio.pdb
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\Promedio\obj\Debug\netcoreapp3.1\Promedio.genruntimeconfig.cache
