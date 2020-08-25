@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "filtro_pares/1.0.0": {
+        "runtime": {
+          "filtro_pares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "filtro_pares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

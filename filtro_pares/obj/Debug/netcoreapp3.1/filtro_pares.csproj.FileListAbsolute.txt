@@ -1,0 +1,13 @@
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\filtro_pares\bin\Debug\netcoreapp3.1\filtro_pares.exe
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\filtro_pares\bin\Debug\netcoreapp3.1\filtro_pares.deps.json
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\filtro_pares\bin\Debug\netcoreapp3.1\filtro_pares.runtimeconfig.json
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\filtro_pares\bin\Debug\netcoreapp3.1\filtro_pares.runtimeconfig.dev.json
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\filtro_pares\bin\Debug\netcoreapp3.1\filtro_pares.dll
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\filtro_pares\bin\Debug\netcoreapp3.1\filtro_pares.pdb
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\filtro_pares\obj\Debug\netcoreapp3.1\filtro_pares.csprojAssemblyReference.cache
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\filtro_pares\obj\Debug\netcoreapp3.1\filtro_pares.AssemblyInfoInputs.cache
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\filtro_pares\obj\Debug\netcoreapp3.1\filtro_pares.AssemblyInfo.cs
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\filtro_pares\obj\Debug\netcoreapp3.1\filtro_pares.csproj.CoreCompileInputs.cache
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\filtro_pares\obj\Debug\netcoreapp3.1\filtro_pares.dll
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\filtro_pares\obj\Debug\netcoreapp3.1\filtro_pares.pdb
+C:\Users\hpsan\Desktop\Tarea_Laboratorio\filtro_pares\obj\Debug\netcoreapp3.1\filtro_pares.genruntimeconfig.cache
